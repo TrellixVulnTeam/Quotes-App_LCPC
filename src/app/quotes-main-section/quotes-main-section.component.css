@@ -1,8 +1,7 @@
 .quotes-main{
-  height: 100%;
-  /* background-color: #e0f2ee; */
-  background-image: url("https://wallpaperaccess.com/full/482770.jpg");
-  font-size: 15px;
+background-color: antiquewhite;
+ 
+  background-repeat: no-repeat;
 }
 
 .main-page{
@@ -17,7 +16,7 @@
   margin-bottom: 10px;
 
 
-  /* background-color: #085a7d; */
+
 }
 .quote-list{
   background-color: rgb(217, 227, 240);
@@ -29,7 +28,7 @@
 
 
 .quote-container{
-  height: 880px;
+  height: 1000px;
   overflow: scroll;
   display: flex;
   flex-direction: column;
@@ -51,7 +50,8 @@
 
 
 .quote{
-  height: auto;
+  height: 500px;
+  width: 400px;
   margin: 20px;
   border: 1px solid white;
 
@@ -98,10 +98,6 @@
   margin-top: 10px;
 }
 
-/* span{
-  background-color: darkblue;
-  color: #fff;
-} */
 
 .toggle{
 
@@ -138,7 +134,7 @@
 
 .popular-container{
   color: white;
-  /* background-color: rgba(3, 3, 90, 0.4); */
+  
 
 }
 
@@ -159,7 +155,8 @@
 
   .popular-container{
     background-color: rgb(43, 26, 75);
-    color: white;
+    
+   
   }
 
   .popular-container h4{
