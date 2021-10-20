@@ -24,7 +24,7 @@ As a user I would like to:
 
 ## Live link
 
-Live link: https://faithnjoki.github.io/Quotes-App/ 
+Live link:
 
 ## Support and contact details
 
